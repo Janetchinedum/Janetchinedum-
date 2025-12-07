@@ -3,7 +3,7 @@
 I'm an Agricultural Science educator and an aspiring tech enthusiast currently transitioning into tech through She Codes Africa. I enjoy teaching, creating content, and exploring digital tools that make learning and communication more effective.
 
 ### 🌱 What I'm currently learning
-- Frontend development (HTML, CSS, JavaScript)
+- data analysis (exel, sql,power bi)
 - Basic programming concepts
 - Digital content creation and social media management
 
