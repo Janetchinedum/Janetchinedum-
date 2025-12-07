@@ -1,25 +1,25 @@
 # 👋 Hi, I'm Janet Chinedum
 
-I'm an Agricultural Science educator and an aspiring tech enthusiast currently transitioning into tech through She Codes Africa. I enjoy teaching, creating content, and exploring digital tools that make learning and communication more effective.
+I'm an Agricultural Science educator and an aspiring Data Analyst. I'm currently transitioning into tech with a strong interest in turning raw data into insights that support decision-making. I enjoy teaching, creating content, and exploring digital tools that make learning and communication more effective.
 
-### 🌱 What I'm currently learning
-- data analysis (exel, sql,power bi)
-- Basic programming concepts
-- Digital content creation and social media management
+### 📊 What I'm currently learning
+- Data analysis (Excel, Google Sheets)
+- SQL for data querying
+- Power BI / Tableau for data visualization
+- Python for basic data manipulation
 
 ### 💼 What I do
-- 🧑‍🏫 I teach Agricultural Science at Eastersprings International School
-- 📱 I manage the school’s social media presence
-- ✍️ I create educational and engaging content
-- 📊 I support digital communication and online engagement
+- 🧑‍🏫 I teach Agricultural Science at Eastersprings International School  
+- 📱 I manage the school’s social media presence  
+- 📈 I analyze small data sets and track trends for content engagement  
+- ✍️ I create educational and digital content  
 
-### ✨ Goals
-- Build my first set of real-world projects  
-- Contribute to beginner-friendly open-source projects  
-- Grow into a frontend or product-focused tech career  
+### 🎯 Goals
+- Build real-world beginner data analysis projects  
+- Create dashboards and visualizations  
+- Transition into a data-focused role in the near future  
 
 ### 📫 Reach me
 - Email: **chinedujanet18@gmail.com**
 
-Thanks for stopping by! 🚀# Janetchinedum-
-My GitHub profile 
+Thanks for checking out my profile! 🚀
